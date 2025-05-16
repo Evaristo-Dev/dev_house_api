@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mongoose": "^8.15.0",
+    "mongose": "^0.0.2-security"
   },
   "name": "dev_house",
   "version": "1.0.0",
